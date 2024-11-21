@@ -10,7 +10,7 @@
 	},
 	"packageManager": "npm@10.9.0",
 	"dependencies": {
-		"@nuxt/http-proxy": "3.14.1592",
+		"@nuxt/http-proxy": "^1.0.0",
 		"ws": "8.18.0"
 	},
 	"engines": {
