@@ -1,19 +1,19 @@
 {
-  "name": "serverless",
-  "version": "1.0.1",
-  "description": "serverless ok",
-  "main": "index.js",
-  "license": "MIT",
-  "private": false,
-  "scripts": {
-      "start": "node server/ws-server.js"
-  },
-  "packageManager": "npm@10.9.0",
-  "dependencies": {
-      "@nuxt/http-proxy": "3.14.1592",
-      "ws": "8.18.0",
-  },
-  "engines": {
-      "node": ">=18"
-  }
+	"name": "serverless",
+	"version": "1.0.1",
+	"description": "serverless ok",
+	"main": "index.js",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"start": "node server/ws-server.js"
+	},
+	"packageManager": "npm@10.9.0",
+	"dependencies": {
+		"@nuxt/http-proxy": "3.14.1592",
+		"ws": "8.18.0"
+	},
+	"engines": {
+		"node": ">=18"
+	}
 }
